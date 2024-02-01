@@ -1,0 +1,24 @@
+                                ███╗░░██╗████████╗
+                                ████╗░██║╚══██╔══╝
+                                ██╔██╗██║░░░██║░░░
+                                ██║╚████║░░░██║░░░
+                                ██║░╚███║░░░██║░░░
+                                ╚═╝░░╚══╝░░░╚═╝░░░
+                                   CARGO REQUEST FORM
+██████████████████████████████████████████
+
+ Request Details:
+    Requester's Name: 
+    Department: 
+
+ Item Description:
+    Item Name/Type: 
+    Quantity: 
+
+  Reason for Request:
+
+
+
+                                                            Logistics Signature: 
+
+██████████████████████████████████████████ 
