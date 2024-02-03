@@ -10,7 +10,7 @@
                                         [bold][head=2]Incident Report[/head][/bold] 
  
 [head=1]────────────────────[/head]
-[bold]Reporter[/bold]  [italic]XXXX[/italic]
+[bold]Reporter[/bold]  [italic] _________________ [/italic]
 
 [bold]Report Details:[/bold] [italic]
 

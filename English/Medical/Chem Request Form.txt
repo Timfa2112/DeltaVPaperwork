@@ -4,7 +4,7 @@
                                 ██║╚████║░░░██║░░░
                                 ██║░╚███║░░░██║░░░
                                 ╚═╝░░╚══╝░░░╚═╝░░░
-                                   CARGO REQUEST FORM
+                                   CHEM REQUEST FORM
 ██████████████████████████████████████████
 
  Request Details:
@@ -19,6 +19,6 @@
 
 
 
-                                                            Logistics Signature: 
-
+                                                            
+                                                         CMO Signature:
 ██████████████████████████████████████████ 

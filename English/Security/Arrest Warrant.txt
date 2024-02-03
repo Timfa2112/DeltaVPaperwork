@@ -6,7 +6,7 @@
    ░░░░░░░░░██████╔╝███████╗╚█████╔╝░░░░░░░░
    ░░░░░░░░░╚═════╝░╚══════╝░╚════╝░░░░░░░░░
 [head=1]────────────────────[/head]
-                                       [bold][head=1]Arrest Warrant[/head][/bold] 
+                             [bold][head=1]Arrest Warrant[/head][/bold] 
 [head=1]────────────────────[/head]
    [bold]NAME:[/bold] [italic] [/italic]
 
