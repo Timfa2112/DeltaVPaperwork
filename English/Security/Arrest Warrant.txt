@@ -10,13 +10,14 @@
 [head=1]────────────────────[/head]
    [bold]NAME:[/bold] [italic] [/italic]
 
-   [bold]MORPHOTYPE:[/bold] 
+   [bold]DEPARTMENT:[/bold] 
 
-   [bold]AGE:[/bold] 
+   [bold]REASON FOR ARREST:[/bold] 
 
-   [bold]SEX:[/bold] 
 
-   [bold]WEIGHT:[/bold] 
+
+
+
 
 [head=1]────────────────────[/head]
            The above individual is wanted across the sector;

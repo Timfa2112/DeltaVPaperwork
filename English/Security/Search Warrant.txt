@@ -5,16 +5,19 @@
    ░░░░░░░░░░╚═══██╗██╔══╝░░██║░░██╗░░░░░░░░
    ░░░░░░░░░██████╔╝███████╗╚█████╔╝░░░░░░░░
    ░░░░░░░░░╚═════╝░╚══════╝░╚════╝░░░░░░░░░
- 
 [head=1]────────────────────[/head]
-                                        [bold][head=2]Search Warrant[/head][/bold] 
- 
+                             [bold][head=1]Search Warrant[/head][/bold] 
 [head=1]────────────────────[/head]
-[bold]In the Matter of the search of:[/bold]  [italic]XXXX[/italic]
+   [bold]NAME:[/bold] [italic] [/italic]
 
-[bold]Issuing Authority:[/bold]  [italic]XXXX[/italic]
+   [bold]DEPARTMENT:[/bold] 
 
-[bold]Extra Information:[/bold]  XXXX
+   [bold]REASON FOR SEARCH:[/bold] 
 
-    stamp below the line to affirm the issuance of this warrant
- [head=1]────────────────────[/head] 
+
+
+
+
+
+[head=1]────────────────────[/head]
+           The above individual is to be searched for contraband
